@@ -1,7 +1,7 @@
 proxy-providers:
   Cats:
     type: http
-    url: https://raw.githubusercontent.com/Mushfiqtaief/ConfigXCats/refs/heads/main/Catsx.txt
+    url: https://raw.githubusercontent.com/mohammadanamul777-cloud/configxcats/refs/heads/main/Cloud9.yaml
     interval: 60
     path: ./providers/Cats.yaml
 
